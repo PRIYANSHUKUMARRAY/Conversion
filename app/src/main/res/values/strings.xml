@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="enter_temperature" />
+    <string name="enter_valid_temperature">1</string>
+    <string name="temperature_in_fahrenheit">2</string>
+    <string name="temperature_in_celsius">3</string>
+    <string name="Degree_celsius" />
+    <string name="Degree_fehrenhite" />
+    <string name="degree_celsius">convertedTemp1</string>
+</resources>
